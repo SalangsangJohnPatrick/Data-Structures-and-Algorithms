@@ -1,0 +1,8 @@
+Display the numbers less than 20:
+12 15 14 13 14 12 15 
+Count the numbers greater than 20:
+7 
+Combine the first and last four numbers:
+12 15 14 26 29 27 21 20 
+Sort the numbers:
+12 14 15 20 21 26 27 29 

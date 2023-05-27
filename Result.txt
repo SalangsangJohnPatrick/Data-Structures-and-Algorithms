@@ -1,0 +1,7 @@
+Count all odd numbers: 19
+Sum of even numbers: 82
+Sum of row 4: 35
+Average of column 3: 3.6666666666666665
+Sum of Diagonal: 15
+Reverse of output of row 1: [2, 4, 1, 7, 3, 4]
+Sort of output of row 2: [2, 3, 5, 7, 8, 9]

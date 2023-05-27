@@ -1,0 +1,4 @@
+Name  AvgQuiz  AvgA  Exam
+John	87	 89	100	
+Sam	87	 89	99	
+Pat	87	 90	98	
